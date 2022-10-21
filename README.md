@@ -119,7 +119,7 @@ else:
     
     
 ```
-## Sample Input and Output:
+## Output:
 linear search method to match the item in a list.
 ![OUTPUT](out5.png)
 
