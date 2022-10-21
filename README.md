@@ -115,6 +115,11 @@ if result!=-1:
 else:
     print(array)
     print("Element not found",)
+    
+    
+    
+    
+    
 
 ```
 ## Sample Input and Output
