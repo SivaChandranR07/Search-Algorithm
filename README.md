@@ -7,7 +7,8 @@ To write a program to perform linear search and binary search using python progr
 ## Algorithm:
 
 ## Linear Search:
-1.	Start from the leftmost element of array[] and compare k with each element of array[] one by one.
+1.	Start from the leftmost element of array[] 
+2.	Compare k with each element of array[] one by one.
 3.	If k matches with an element in array[] , return the index.
 4.	If k doesn’t match with any of elements in array[], return -1 or element not found.
 ## Binary Search:
