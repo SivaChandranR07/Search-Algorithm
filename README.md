@@ -46,9 +46,6 @@ else:
     print(array)
     print("Element not found")
 
-
-
-
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ``` python
@@ -118,9 +115,6 @@ else:
     
     
     
-    
-    
-
 ```
 ## Sample Input and Output
 ![OUTPUT](out5.png)
