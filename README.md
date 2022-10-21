@@ -80,10 +80,6 @@ if result!=-1:
 else:
     print(array)
     print("Element not found")
-    
-
-
-
 
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
@@ -119,11 +115,6 @@ if result!=-1:
 else:
     print(array)
     print("Element not found",)
-
-
-
-
-
 
 ```
 ## Sample Input and Output
