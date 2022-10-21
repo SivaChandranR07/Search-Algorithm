@@ -119,12 +119,12 @@ else:
     
     
 ```
-## Sample Input and Output
+## Sample Input and Output:
+linear search method to match the item in a list.
 ![OUTPUT](out5.png)
-
+find the element in a list using Binary Search(Iterative Method) and find the element in a list using Binary Search (recursive Method).
 ![OUTPUT](out7.png)
 
-![OUTPUT](out8.png)
 
 
 
