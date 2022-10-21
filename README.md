@@ -135,5 +135,5 @@ find the element in a list using Binary Search(Iterative Method) and find the el
 
 
 
-## Result
+## Result:
 Thus the linear search and binary search algorithm is implemented using python programming.
